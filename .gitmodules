@@ -1,0 +1,6 @@
+[submodule "chess-frontend"]
+	path = chess-frontend
+	url = https://github.com/dharminnagar/chess-frontend
+[submodule "chess-backend"]
+	path = chess-backend
+	url = https://github.com/dharminnagar/chess-backend
